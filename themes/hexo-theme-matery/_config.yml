@@ -77,7 +77,7 @@ indexbtn:
   enable: true
   name: Github
   icon: fa-github-alt
-  url: https://github.com/blinkfox/hexo-theme-matery
+  url: https://github.com/BowenZang
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
@@ -149,7 +149,7 @@ myProjects:
     hexo-theme-matery:
       icon: fa-meetup
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: http://github.com/blinkfox/hexo-theme-matery
+      url: https://github.com/BowenZang
       desc: This is a Hexo blog theme with 'Material Design' and responsive design.
     zealt:
         icon: fa-database
